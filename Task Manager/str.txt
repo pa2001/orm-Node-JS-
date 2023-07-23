@@ -1,0 +1,27 @@
+Sure! Here are some example pages that you can include in your Task Manager frontend:
+
+Dashboard Page:
+This page serves as the main interface for the logged-in user.
+It displays an overview of the user's tasks, such as the number of tasks, completed tasks, etc.
+It may include a task summary, a calendar view, or a task progress chart.
+Task List Page:
+This page displays a list of tasks belonging to the logged-in user.
+Each task may include details such as task name, due date, priority, status, etc.
+Users can view, update, and delete tasks from this page.
+There may be options to sort tasks by different criteria (e.g., due date, priority, etc.) or filter tasks based on their status (e.g., completed, pending, etc.).
+Task Details Page:
+This page provides a detailed view of a specific task.
+It displays all the information related to the task, such as task name, description, due date, priority, assigned user, etc.
+Users can edit the task details, mark the task as complete, or delete the task from this page.
+Create Task Page:
+This page allows users to create a new task.
+It includes form fields to input task details, such as task name, description, due date, priority, etc.
+Users can submit the form to create a new task.
+User Profile Page:
+This page displays user-specific information, such as username, email, profile picture, etc.
+Users can update their profile information, change their password, or manage account settings from this page.
+Navigation Bar/Header:
+
+A common component used across all pages to provide navigation links and options.
+It typically includes links to the dashboard, task list, create task, user profile, and logout functionality.
+These are just a few examples of pages that you can include in your Task Manager frontend. Depending on your specific requirements, you may have additional pages or variations of the above pages. Remember to design the pages based on the features and user interactions you want to provide in your application.
